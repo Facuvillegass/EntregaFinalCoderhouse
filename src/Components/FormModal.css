@@ -1,0 +1,26 @@
+.formModal {
+    margin-top: 30px ;
+    margin-bottom: 100px;
+    width: 50%;
+    border: black 3px solid;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.formModal input {
+    margin: 5px;
+    border: solid black 2px;
+    text-align: center;
+}
+
+.formModal button {
+    margin: 5px;
+}
+
+.btnEnviarInfoForm{
+    border: solid 3px;
+    background-color: aquamarine;
+    padding: 7px;
+}

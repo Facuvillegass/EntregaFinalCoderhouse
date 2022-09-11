@@ -1,0 +1,33 @@
+.elementoEnDetalle{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 100%);
+    gap: 40px;
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.tituloDetalle{
+    font-weight: 800;
+}
+
+.imagenDetalle{
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+.imagenDealleGrande {
+    border: solid 3px lightseagreen;
+    margin-top: 10px;
+}
+
+.ofertaEnDetalle {
+    border: solid 3px green;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}

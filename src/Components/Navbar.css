@@ -1,0 +1,48 @@
+.cantidadItems{
+    width: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 23px;
+    right: 32px;
+}
+
+.numeroCantidadItems{
+    font-size: 18px;
+    font-weight: 900;
+    color: lightcoral;
+}
+
+.numeroCantidadItems:hover{
+    font-size: 22px;
+}
+
+.btnCarritoNav{
+    background-color: lightskyblue;
+    border: solid 2px white;
+}
+
+.btnCarritoNav:hover{
+    background-color: lightgreen;
+    border: solid 2px lightseagreen;
+}
+
+.nav-link{
+    color:rgb(62, 144, 221);
+}
+
+.btnNavbar {
+    margin-right: 10px;
+    margin-left: 15px;
+    border: solid 1px black;
+    margin-top: 5px;
+}
+
+.btnNavbar:hover {
+    border: solid 2px lightseagreen;
+    margin-top: 1px;
+}
+
+.navbarContainer {
+    background-color: lightskyblue
+}

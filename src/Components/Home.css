@@ -1,0 +1,98 @@
+body {
+  background-color: rgb(160, 213, 238);
+  font-family: "Poppins", sans-serif;
+}
+
+.logoHome {
+  text-align: center;
+  margin-bottom: -20px;
+}
+
+.imgPelota {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tituloPelota {
+  text-align: center;
+  font-weight: 600;
+}
+
+.elementosEnHome {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 280px);
+  gap: 40px;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.cadaElementoEnHome {
+  border: solid 3px black;
+  padding: 20px;
+  text-align: center;
+  height: 100%;
+}
+
+.cadaElementoEnHome:hover {
+  border: solid 3px white;
+}
+.cadaElementoEnHomeCat {
+  border: solid 3px lightseagreen;
+  margin: 20px 300px;
+  padding: 20px;
+  text-align: center;
+  height: 100%;
+}
+
+.descripcionElementoHome {
+  text-align: center;
+  margin-top: 10px;
+  font-style: italic;
+  color: white;
+}
+
+.modal1 {
+  background-color: rgba(32, 178, 171, 0.774);
+  border: solid 5px rgb(255, 255, 255);
+  width: 40%;
+  text-align: center;
+  position: fixed;
+  left: 400px;
+  padding: 20px;
+  z-index: 1;
+}
+
+.productosEnModal {
+  border: solid 3px lightblue;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: black;
+  font-style: italic;
+}
+
+.tituloEnModal{
+  color: white;
+}
+.claseOpacity {
+  opacity: 0.3;
+}
+
+.btnConfirmarEnModal{
+  margin-bottom: 5px;
+  padding: 9px;
+  background-color: aquamarine;
+}
+
+.btnConfirmarEnModal:hover{
+  border: solid 3px white;
+}
+
+.btnNoQuieroEnModal{
+  background-color: lightseagreen;
+}
+
+.btnNoQuieroEnModal:hover{
+  color: white;
+}

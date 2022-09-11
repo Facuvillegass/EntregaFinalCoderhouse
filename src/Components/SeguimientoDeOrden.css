@@ -1,0 +1,32 @@
+.ordenDeSeguimiento {
+    text-align: center;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 3px black;
+    padding: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.formularioSeguimientoOrden{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.btnVerSeguimiento{
+    padding: 2px 25px;
+    margin-top: 30px;
+}
+
+.formularioSeguimientoOrden input {
+    width: 30%;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border: solid 3px black;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,47 @@
+.detalleElementoEnCarrito{
+    text-align: center;
+    border: solid 3px black;
+    margin: 10px 200px;
+    padding: 10px;
+}
+
+.tituloCarrito {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.btnGenerarOrden{
+    background-color: lightgreen;
+    border: solid 2px black;
+    color: white;
+    margin-bottom: 20px;
+    padding: 17px;
+}
+
+.btnGenerarOrden:hover{
+    border: solid 2px white;
+    color: black;
+
+}
+
+.cuadroDePago {
+    text-align: center;
+}
+
+.tituloPelotaEnCarrito {
+    font-style: italic;
+}
+
+.precioEnCarrito{
+    color: white;
+   
+}
+
+.btnVaciar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btnVaciarCarrito:hover{
+    border: solid 3px lightcoral;
+}
